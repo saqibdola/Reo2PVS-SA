@@ -1,4 +1,4 @@
-# 1) Reo Connectors formal Modeling and Verification in PVS, and 
+# 1) Reo Connectors in PVS, and 
 # (2) Proofs Searching and optimization for Reo Connectors with Simulated Annealing.
 
 
