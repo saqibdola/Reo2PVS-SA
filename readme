@@ -1,7 +1,7 @@
-**Reo Connectors formal Modeling and Verification in PVS**, and 
-** Proofs Searching and optimization for Reo Connectors with Simulated Annealing**.
+Reo Connectors formal Modeling and Verification in PVS, and 
+Proofs Searching and optimization for Reo Connectors with Simulated Annealing.
 
-##Reo-in-PVS contains the PVS dump files for Reo Connectors (timed, untimed and probabilistic).
+Reo-in-PVS contains the PVS dump files for Reo Connectors (timed, untimed and probabilistic).
 
-##SA contains the dataset and python code for simulated annealing (SA) that is used to for Reo connectors 
-proofs searching and optimization.
+SA contains the dataset and python code for simulated annealing (SA) that is used to for Reo connectors 
+   proofs searching and optimization.
