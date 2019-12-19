@@ -4,4 +4,4 @@
 
 ***Reo-in-PVS* contains the PVS dump files for Reo Connectors (timed, untimed and probabilistic)**.
 
-***SA* contains the dataset and python code for simulated annealing (SA) that is used for Reo connectors proofs searching and optimization.New Document**.
+***SA* contains the dataset and python code for simulated annealing (SA) that is used for Reo connectors proofs searching and optimization**.
