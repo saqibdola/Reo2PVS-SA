@@ -1,3 +1,0 @@
-induct skosimp expand expand expand expand expand expand expand expand assert flatten hide hide split typepred expand assert flatten 
-expand expand flatten grind assert skosimp* inst? inst? inst? inst? inst? assert expand expand expand expand expand expand expand assert 
-flatten hide hide split typepred expand assert flatten expand expand flatten grind expand assert
