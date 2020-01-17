@@ -102,7 +102,7 @@ with open("lp.txt", 'r') as f:
                 #g2.extend(random.sample(gSet, sSize))
                 randSample = list(g1)
                 randSampleFit= Fitness(randSample)
-            T_max = 100000
+            T_max = 50000
             T_min = 0.0002
             alpha = 0.9954
             count=0
